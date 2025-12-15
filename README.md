@@ -75,8 +75,8 @@ JWT_SECRET=your_strong_secret_key_here
 
 # ▶️ How to Run the Project Locally
 # 1️⃣ Clone the Repository
-git clone [https://github.com/harshbhar0629/Primetrade_Frontend_Task.git]
-cd Primetrade_Frontend_Task
+git clone [https://github.com/harshbhar0629/Primetrade_Backend_Task.git]
+cd Primetrade_Backend_Task
 
 # Install Dependencies
 # Navigate to each directory and install dependencies:
@@ -105,7 +105,7 @@ npm run dev
 Frontend Application: http://localhost:5173
 
 🔗 GitHub Repository
-👉 https://github.com/harshbhar0629/Primetrade_Frontend_Task
+👉 https://github.com/harshbhar0629/Primetrade_Backend_Task
 
 # 👨‍💻 Author
 # Harsh Bhardwaj
